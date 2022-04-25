@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Ricardo Hodara CV</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Ricardo Hodara</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/myself.jpeg" alt="" /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+			aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">about</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Other knowledges</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Key Features</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Social & Comunity Work</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#mystory">About me</a></li>
+					<br/>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/ricardo-h-4b68ab47/" target="_blank"> <i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://www.instagram.com/rickyhodara"  target="_blank" > <i class="fab fa-instagram"></i></a>
+                        <a class="social-icon" href="https://www.facebook.com/ricky.hodara" target="_blank"> <i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Ricardo
+                        <span class="text-primary">Hodara</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        <i class="fa fa-phone "></i> +972 54 7290541 ·  ricardohodara@gmail.com
+                        <a href="mailto:name@email.com"></a>
+                    </div>
+                    <p class="lead mb-5"><b>Junior QA - Manual tester</b></p>
+                    
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+						<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+							<div class="flex-grow-1">
+								<h3 class="mb-0">Department Manager and, Recycling and Environmental protection referent</h3>
+								<div class="subheading mb-3">decathlon beer sheva</div>
+								<p>Manage and Taking care of the Walking, Jogging and Running department and serving as shifts manager also.<br>
+								   I started as a salesmen in the teams sports department, after six month haved been promoted to department manager in it, and after 6 month as the Camping department manager, I moved fowared to manage a new department.<a href="https://www.facebook.com/1338932782896597/videos/3012221298880229/" target="_blank" > "DECATHLON BEER SHEVA" </a> <a href="decathlon.jpg" target="_blank" >(pic)</a>
+							</p>
+							</div>
+							<div class="flex-shrink-0"><span class="text-primary">September 2020 --- </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Gift cards printer and quality print controller</h3>
+                            <div class="subheading mb-3">Beeri Print</div>
+                            <p>Print plastic gift cards and plastic member´s cards for Maccabi, Mehujedet and other main Israel companies. Everything 
+							manage with the <a href="https://www.youtube.com/watch?v=IVWF05_xH1I" target="_blank" > "Matica Printer" </a> <a href="matica.jpg" target="_blank" >(pic)</a>
+							software, and registering all the work on the "Priority" software.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January - April 2020 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Printer and Machine filler </h3>
+                            <div class="subheading mb-3"> <a href="http://beeriprint.co.il/%D7%94%D7%93%D7%A4%D7%A1%D7%94_%D7%95%D7%93%D7%99%D7%95%D7%95%D7%A8_%D7%9C%D7%A2%D7%A1%D7%A7%D7%99%D7%9D.html" target="_blank"> Beeri Print </a></div>
+                            <p> Print worker, maintenance and supplies filler at the new <a href="https://www.youtube.com/watch?v=TBlsi75OeWA" target="_blank" >
+							HP PageWide High-Volume Inkjet Printing</a> <a href="hp.jpg" target="_blank" >(pic)</a> </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">January - December 2019</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Owner - CEO and General manager</h3>
+                            <div class="subheading mb-3"> <a href="https://www.vittopublicidad.com.ar" target="_blank"> Vitto Publicidad </a> (Córdoba, Argentina)</div>
+                            <p>A Wholesale and retail bussiness who offer promotion gifts, advertising and merchandising products with the company logo printed on. <br/>
+							Management tasks: PMO, Manufacture, Logistics, Development, Planning, Purchases, Sales, Mkt and digital mkt. </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2006 - December 2017</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Full Tasks</h3>
+                            <div class="subheading mb-3"> <a href="http://accionhodara.com.ar/" target="_blank"> Accion Publicitaria </a>(Córdoba, Argentina)</div>
+                            <p>Being the 3rd generation in the family Merchandising and printing bussiness, have learned and worked on all over the areas. My 
+							father want me to learn to work in every single posible area, so in the future, would be able to know and understand how
+							to do the tasks and give instructions to the workers with knowledge and good criteria. </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">1992 - June 2006</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><a href="https://qamasters.co.il/" target="_blank"> QA Automation College</a></h3>
+                            <div class="subheading mb-3"><b>Manual QA </b></div>
+								<div> <b>Professional and practical Manual QA: </b>
+									<li>Experienced in writing test documentation (STP, STD, STR).</li>
+									<li>Test documents.</li>
+									<li>Test & Bug management tools: TestRail, JIRA.</li>
+									<li>SQL queries (Join level).</li>
+									<li>Web(Chrome, Edge, Firefox) & Mobile(iOS,Android) testing.</li>
+									<li>Programming:SQL, HTML, CSS.</li>
+								</div>
+								<div> <b>Professional and practical Automation QA: (Starting soon) </b></div>
+									<li>Object Oriented (Java): Encapsulation, Inheritance, Polymorphism.</li>
+									<li>HTML :html5, css, javascript.</li>
+									<li>Selenium WebDriver.</li>
+									<li>Building an automation framework from scratch including TestNG reports.</li>
+                        </div> 
+                        <div class="flex-shrink-0"><span class="text-primary">July 2020 ----</span></div>
+                    </div>
+					<br/><br/>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">IES Siglo21 (Córdoba - Argentina)</h3>
+                            <div class="subheading mb-3">Bussiness Administration  <br/>  BA on Bussiness Management </div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 1998 - November 2001 <br/> March 2003 - November 2006</span></div>
+                    </div>
+                    <br/><br/>
+					
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Aspen High School (Colorado - USA)</h3>
+                            <div class="subheading mb-3">Senior year (Rotary exchange student program) </div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 1994 - July 1995 </span></div>
+                    </div>
+					 <br/><br/>
+					<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Kfar Silver (Ashkelon - Israel)</h3>
+                            <div class="subheading mb-3">Junior year (Sojnut student program) </div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 1993 - February 1994 </span></div>
+                    </div>
+                </div>
+            </section>			
+            <hr class="m-0" />
+		<!-- Other Knowledges-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Other knowledges</h2>
+						<div class="subheading mb-3", style="font-size:27px">Languages</div>
+                    		<li><b> Spanish </b></li>
+								<i style="font-size:13px",>Mother tongue</i>
+							<li><b> English </b></li>
+								<i style="font-size:13px",>Full written and oral control - high level</i>	
+							<li><b> Hebrew </b></li>
+								<i style="font-size:13px",>Control in writing and verbally – Very Good Level</i>	<br/><br/>
+						<div class="subheading mb-3", style="font-size:27px">Computer Programs - Advance level</div>
+                    		<li><b> Excell </b></li>
+							<li><b> Word </b></li>
+							<li><b> Power Point </b></li>
+							<li><b> NotePad++ </b></li>
+							<li><b> TestRail </b></li>
+							<li><b> Jira </b></li>
+							<li><b> Corel Draw </b></li>
+							<li><b> Social Media </b></li>
+							<li><b> Google Adwords </b></li>
+							<li><b> Facebook Ads </b></li>
+							<li><b> Google sheets/chat/meet/docs/drive </b></li>
+															                    
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Key Features</h2>
+					<div class="subheading mb-3">Key Features that Make me good QA engineer .</div>
+                    <p>
+						<li><b> User-oriented perspective</b></li>
+							<i style="font-size:13px",>To design more real-time scenarios, a QA engineer should clearly understand who the end-user is,<br> 
+							what purpose the product serves, and how it will be useful to the customer.</i>
+							<br>
+						<li> <b>Ability to meet deadlines</b></li>
+							<i style="font-size:13px",>QA engineers should be able to efficiently plan their work in a way that will enable them to be on time 
+							with their tasks.</i>
+</i>					<li> <b>Communication and collaboration skills</b></li>
+							<i style="font-size:13px",>Having good communication and teamwork skills is essential for software testers, as they constantly 
+							interact with project team members, clients, and stakeholders. Mastering point-to-point communication will help a QA engineer 
+							accurately decide on what information to include in the daily status reports.</i>
+						<li> <b>Fast learning</b></li>
+							<i style="font-size:13px",>As projects usually allocate the least time to testing, QA engineers need to learn fast to be able 
+							to simplify the task and execute the assigned work on time. It’s necessary to quickly understand the requirements and the 
+							purpose of the software, considering the recent changes.</i>
+						<li> <b>Prioritise</b></li>
+							<i style="font-size:13px",>Good QA tester will always be organised. Tester must be able to prioritise features and test cases 
+							that are to be tested. Tester must also be able to prioritise his activities so that the testing goals are achieved.</i>
+						<li> <b>Curiosity and Self learning</b></li>
+							<i style="font-size:13px",>Being a QA engineer means constantly questioning the quality of the product. Often working with 
+							incomplete requirements, they need to ask meaningful questions that will yield more information and help perform testing 
+							effectively. Always looking forward to learn new tips, tools and programs. </i>
+											</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Social & Comunity work-->
+				<section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Social and Comunity Works</h2>
+                    <div class="subheading mb-3">2015 - 2017  -- President of the Jewish Sepharadic Community - (Cordoba, Argentina). </div>
+                    
+                    <div class="subheading mb-3">1999 - 2000        -- President of Rotaract Youth Department, Rotary Club - (Cordoba, Argentina) 
+					<h5 style="color:gray">(Social Work and Group Management)</h5></div>
+					<div class="subheading mb-3">1989 – Teenager Coordinator (kids age 12/13) on the Youth Movement “Tnuat Noar – Hejalutz Lamerjav”</div>
+                    
+                </div>
+				</section>
+				<hr class="m-0" />  
+			<!-- My Story-->
+				<section class="resume-section" id="mystory">
+					<div class="resume-section-content">
+						<h2 class="mb-5">A little about me</h2>
+						<p class="lead mb-5">I am a new immigrant (2018), and an experienced bussiness man who had run his own company and learned since a young man how to manage all 
+					diferent arear of a company working on all of them, such us production, development, logistics, sales (front and digital), buys, 
+					customer service, public relations and more. Now Iam entering the "Hi-tec" world through the QA area finding it very interesting and
+					exciting, being a great complement to all my background knowgledge making myself stronger and a more valuable working person. </p>
+                    
+                    
+					</div>
+                    
+        <
+				</section>
+            <hr class="m-0" />
+        </div>
+		
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
